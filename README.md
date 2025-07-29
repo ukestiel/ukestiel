@@ -6,7 +6,7 @@
 
 var unfollowEveryone = require('github-unfollow-everyone');
 
-unfollowEveryone('<ukestiel>', '<Sema2511>', function(error) {
+unfollowEveryone('<ukestiel>', '<Sema25112009>', function(error) {
   if (error) {
     console.log('oops. an error occurred:', error);
     return;
